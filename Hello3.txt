@@ -1,2 +1,2 @@
-Welcome
-new line2
+Welcome;
+new line2;
